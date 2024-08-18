@@ -6,7 +6,7 @@ const chatBotCloseBtn = document.querySelector(".close-btn");
 
 let userMessage;
 // get API Key from https://aistudio.google.com/app/apikey
-const API_KEY = "AIzaSyAQEriUQOtA_cxVz9Ck50Ygo0yiQNeVSrU";
+const API_KEY = "Your API Key";
 
 const createChatLi = (message, className) =>{
 
